@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: feed4e3a37ba1804d99022c3890e8b9f
+timeCreated: 1456485579
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1
+    21300002: 10
+    21300004: 11
+    21300006: 12
+    21300008: 13
+    21300010: 14
+    21300012: 15
+    21300014: 16
+    21300016: 17
+    21300018: 18
+    21300020: 19
+    21300022: 2
+    21300024: 20
+    21300026: 21
+    21300028: 22
+    21300030: 23
+    21300032: 24
+    21300034: 25
+    21300036: 26
+    21300038: 27
+    21300040: 28
+    21300042: 29
+    21300044: 3
+    21300046: 30
+    21300048: 31
+    21300050: 32
+    21300052: 33
+    21300054: 34
+    21300056: 35
+    21300058: 36
+    21300060: 37
+    21300062: 38
+    21300064: 39
+    21300066: 4
+    21300068: 40
+    21300070: 41
+    21300072: 42
+    21300074: 43
+    21300076: 44
+    21300078: 45
+    21300080: 46
+    21300082: 5
+    21300084: 6
+    21300086: 7
+    21300088: 8
+    21300090: 9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 1
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 4
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 51}
+        - {x: -20.5, y: 51}
+        - {x: -32.5, y: 47}
+        - {x: -42.5, y: 23}
+        - {x: -42.5, y: -31}
+        - {x: -35.5, y: -48}
+        - {x: -24.5, y: -52}
+        - {x: 17.5, y: -52}
+        - {x: 41.5, y: -26}
+        - {x: 41.5, y: 28}
+        - {x: 36.5, y: 50}
+    - name: 10
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 120
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 45}
+        - {x: -43.5, y: -16}
+        - {x: -43.5, y: -45}
+        - {x: -42.5, y: -49}
+        - {x: 13.5, y: -49}
+        - {x: 43.5, y: -41}
+        - {x: 43.5, y: 42}
+        - {x: 30.5, y: 45}
+    - name: 11
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 4
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 44}
+        - {x: -34.5, y: 44}
+        - {x: -44.5, y: 32}
+        - {x: -44.5, y: -44}
+        - {x: 13.5, y: -44}
+        - {x: 28.5, y: -30}
+        - {x: 43.5, y: -6}
+        - {x: 43.5, y: 33}
+    - name: 12
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 120
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 41}
+        - {x: -47.5, y: 4}
+        - {x: -23.5, y: -33}
+        - {x: 45.5, y: -33}
+        - {x: 45.5, y: 41}
+    - name: 13
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 236
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 25}
+        - {x: -44.5, y: -9}
+        - {x: -44.5, y: -43}
+        - {x: 5.5, y: -43}
+        - {x: 43.5, y: 19}
+        - {x: 43.5, y: 43}
+        - {x: 19.5, y: 43}
+        - {x: 2.5, y: 38}
+    - name: 14
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 236
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 46}
+        - {x: -12.5, y: 46}
+        - {x: -46.5, y: 32}
+        - {x: -46.5, y: 4}
+        - {x: -24.5, y: -30}
+        - {x: 0.5, y: -33}
+        - {x: 1.5, y: -17}
+        - {x: 1.5, y: -11}
+        - {x: 1.5, y: -21}
+        - {x: 2.5, y: -34}
+        - {x: 23.5, y: -50}
+        - {x: 45.5, y: -50}
+        - {x: 45.5, y: 1}
+        - {x: 32.5, y: 41}
+    - name: 15
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 236
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 38}
+        - {x: -49.5, y: 37}
+        - {x: -49.5, y: -30}
+        - {x: 42.5, y: -30}
+        - {x: 47.5, y: -27}
+        - {x: 47.5, y: 38}
+      - - {x: -30.5, y: 29}
+        - {x: -27.5, y: 30}
+        - {x: -27.5, y: 33}
+        - {x: -30.5, y: 34}
+        - {x: -32.5, y: 32}
+    - name: 16
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 4
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 48}
+        - {x: -37.5, y: 34}
+        - {x: -29.5, y: 32}
+        - {x: -24.5, y: 32}
+        - {x: -36.5, y: 32}
+        - {x: -43.5, y: 24}
+        - {x: -43.5, y: -40}
+        - {x: -26.5, y: -47}
+        - {x: 43.5, y: -47}
+        - {x: 43.5, y: 48}
+    - name: 17
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 120
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: -1}
+        - {x: 32.5, y: -56}
+        - {x: 44.5, y: -56}
+        - {x: 44.5, y: -30}
+        - {x: 11.5, y: 48}
+        - {x: -19.5, y: 56}
+        - {x: -48.5, y: 56}
+        - {x: -48.5, y: 38}
+    - name: 18
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 236
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 42}
+        - {x: -45.5, y: -5}
+        - {x: -45.5, y: -31}
+        - {x: -19.5, y: -39}
+        - {x: 44.5, y: -39}
+        - {x: 44.5, y: 34}
+        - {x: 42.5, y: 42}
+    - name: 19
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 352
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 40}
+        - {x: -43.5, y: 38}
+        - {x: -43.5, y: -8}
+        - {x: -12.5, y: -21}
+        - {x: 28.5, y: -21}
+        - {x: 43.5, y: 5}
+        - {x: 43.5, y: 26}
+        - {x: -27.5, y: 40}
+    - name: 2
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 352
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 39}
+        - {x: -44.5, y: 22}
+        - {x: -44.5, y: -34}
+        - {x: 44.5, y: -34}
+        - {x: 44.5, y: 39}
+    - name: 20
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 352
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 42}
+        - {x: -44.5, y: 2}
+        - {x: -44.5, y: -31}
+        - {x: -33.5, y: -37}
+        - {x: 38.5, y: -37}
+        - {x: 45.5, y: -24}
+        - {x: 45.5, y: 42}
+    - name: 21
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 352
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 57}
+        - {x: -49.5, y: -49}
+        - {x: -37.5, y: -57}
+        - {x: 49.5, y: -57}
+        - {x: 49.5, y: 46}
+        - {x: 39.5, y: 57}
+    - name: 22
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 4
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: -35}
+        - {x: -47.5, y: -30}
+        - {x: -49.5, y: -30}
+        - {x: -49.5, y: -43}
+        - {x: -46.5, y: -46}
+        - {x: -41.5, y: -52}
+        - {x: -39.5, y: -52}
+        - {x: -37.5, y: -50}
+        - {x: -37.5, y: -46}
+      - - {x: -36.5, y: -41}
+        - {x: -38.5, y: -44}
+        - {x: -37.5, y: -50}
+        - {x: -34.5, y: -51}
+        - {x: -28.5, y: -51}
+        - {x: -28.5, y: -48}
+        - {x: -32.5, y: -41}
+      - - {x: 18.5, y: 44}
+        - {x: -22.5, y: 44}
+        - {x: -43.5, y: 24}
+        - {x: -43.5, y: 12}
+        - {x: -40.5, y: 4}
+        - {x: -30.5, y: -43}
+        - {x: -21.5, y: -46}
+        - {x: 11.5, y: -46}
+        - {x: 18.5, y: -44}
+        - {x: 42.5, y: -26}
+        - {x: 42.5, y: -4}
+      - - {x: -47.5, y: 57}
+        - {x: -49.5, y: 55}
+        - {x: -49.5, y: 49}
+        - {x: -47.5, y: 49}
+        - {x: -39.5, y: 51}
+        - {x: -37.5, y: 56}
+        - {x: -37.5, y: 57}
+    - name: 23
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 120
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 42}
+        - {x: -45.5, y: -29}
+        - {x: -24.5, y: -36}
+        - {x: 37.5, y: -36}
+        - {x: 45.5, y: -27}
+        - {x: 45.5, y: 29}
+        - {x: 40.5, y: 42}
+    - name: 24
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 236
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: -24}
+        - {x: -49.5, y: -35}
+        - {x: -48.5, y: -36}
+        - {x: -46.5, y: -36}
+        - {x: -44.5, y: -34}
+        - {x: -44.5, y: -26}
+        - {x: -47.5, y: -23}
+      - - {x: -34.5, y: 35}
+        - {x: -47.5, y: 23}
+        - {x: -47.5, y: -10}
+        - {x: -39.5, y: -32}
+        - {x: -25.5, y: -35}
+        - {x: 21.5, y: -35}
+        - {x: 49.5, y: -17}
+        - {x: 49.5, y: 30}
+        - {x: 39.5, y: 35}
+      - - {x: 0.5, y: 38}
+        - {x: 3.5, y: 39}
+        - {x: 3.5, y: 42}
+        - {x: 0.5, y: 43}
+        - {x: -1.5, y: 41}
+    - name: 25
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 352
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.5, y: 54}
+        - {x: 36.5, y: 57}
+        - {x: 9.5, y: 57}
+        - {x: -23.5, y: 37}
+        - {x: -47.5, y: -19}
+        - {x: -47.5, y: -48}
+        - {x: -13.5, y: -48}
+        - {x: 46.5, y: 3}
+        - {x: 49.5, y: 7}
+        - {x: 49.5, y: 35}
+    - name: 26
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 4
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 51}
+        - {x: -49.5, y: 18}
+        - {x: -49.5, y: -27}
+        - {x: -27.5, y: -52}
+        - {x: -4.5, y: -52}
+        - {x: 5.5, y: -50}
+        - {x: 48.5, y: -15}
+        - {x: 48.5, y: 43}
+        - {x: 46.5, y: 51}
+    - name: 27
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 120
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 57}
+        - {x: -43.5, y: 49}
+        - {x: -44.5, y: 43}
+        - {x: -44.5, y: 40}
+        - {x: -47.5, y: 44}
+        - {x: -49.5, y: 44}
+        - {x: -49.5, y: -56}
+        - {x: -47.5, y: -57}
+        - {x: 49.5, y: -57}
+        - {x: 49.5, y: 48}
+        - {x: 39.5, y: 57}
+    - name: 28
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 236
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 43}
+        - {x: 11.5, y: 43}
+        - {x: -41.5, y: -38}
+        - {x: -41.5, y: -47}
+        - {x: -14.5, y: -47}
+        - {x: 12.5, y: -27}
+        - {x: 40.5, y: 3}
+        - {x: 41.5, y: 9}
+    - name: 29
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 352
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 48}
+        - {x: 13.5, y: 48}
+        - {x: 13.5, y: 40}
+        - {x: 11.5, y: 45}
+        - {x: 3.5, y: 48}
+        - {x: -24.5, y: 48}
+        - {x: -46.5, y: 17}
+        - {x: -46.5, y: -40}
+        - {x: -26.5, y: -48}
+        - {x: 43.5, y: -48}
+        - {x: 46.5, y: -42}
+        - {x: 46.5, y: 19}
+        - {x: 28.5, y: 43}
+    - name: 3
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 4
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: -13}
+        - {x: 27.5, y: -21}
+        - {x: 33.5, y: 13}
+        - {x: 35.5, y: 26}
+        - {x: 30.5, y: 35}
+        - {x: -1.5, y: 47}
+        - {x: -28.5, y: 47}
+        - {x: -43.5, y: 31}
+        - {x: -43.5, y: -45}
+        - {x: 14.5, y: -45}
+        - {x: 34.5, y: -40}
+        - {x: 44.5, y: -26}
+        - {x: 44.5, y: -18}
+        - {x: 42.5, y: -14}
+    - name: 30
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 120
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 46}
+        - {x: -46.5, y: -40}
+        - {x: -36.5, y: -46}
+        - {x: 14.5, y: -46}
+        - {x: 45.5, y: -29}
+        - {x: 45.5, y: 28}
+        - {x: 40.5, y: 40}
+        - {x: 31.5, y: 46}
+      - - {x: -17.5, y: 32}
+        - {x: 35.5, y: 12}
+        - {x: 34.5, y: 6}
+        - {x: 11.5, y: -17}
+    - name: 31
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 236
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: -3}
+        - {x: 14.5, y: -54}
+        - {x: 48.5, y: -54}
+        - {x: 48.5, y: -4}
+        - {x: 25.5, y: 48}
+        - {x: -16.5, y: 48}
+        - {x: -46.5, y: 28}
+    - name: 32
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 352
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 46}
+        - {x: -39.5, y: 36}
+        - {x: -24.5, y: 7}
+        - {x: 40.5, y: -57}
+        - {x: 49.5, y: -57}
+        - {x: 49.5, y: -45}
+        - {x: 38.5, y: -17}
+        - {x: 2.5, y: 24}
+        - {x: -33.5, y: 46}
+    - name: 33
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 4
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 57}
+        - {x: -4.5, y: 54}
+        - {x: -5.5, y: 46}
+        - {x: -3.5, y: 44}
+        - {x: -1.5, y: 44}
+        - {x: -3.5, y: 44}
+        - {x: -19.5, y: 54}
+        - {x: -38.5, y: 50}
+        - {x: -48.5, y: 48}
+        - {x: -48.5, y: 9}
+        - {x: -38.5, y: -43}
+        - {x: -15.5, y: -57}
+        - {x: 14.5, y: -57}
+        - {x: 48.5, y: -43}
+        - {x: 48.5, y: 11}
+        - {x: 19.5, y: 57}
+      - - {x: 23.5, y: 57}
+        - {x: 20.5, y: 56}
+        - {x: 20.5, y: 49}
+        - {x: 22.5, y: 48}
+        - {x: 24.5, y: 48}
+        - {x: 26.5, y: 51}
+        - {x: 27.5, y: 55}
+        - {x: 26.5, y: 57}
+      - - {x: -39.5, y: 52}
+        - {x: -36.5, y: 52}
+        - {x: -32.5, y: 53}
+        - {x: -32.5, y: 57}
+        - {x: -40.5, y: 57}
+        - {x: -40.5, y: 54}
+    - name: 34
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 120
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 57}
+        - {x: -10.5, y: 57}
+        - {x: -30.5, y: 44}
+        - {x: -42.5, y: 21}
+        - {x: -42.5, y: 3}
+        - {x: -4.5, y: -57}
+        - {x: 6.5, y: -57}
+        - {x: 42.5, y: 7}
+        - {x: 42.5, y: 19}
+        - {x: 28.5, y: 45}
+    - name: 35
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 236
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 42}
+        - {x: -41.5, y: 17}
+        - {x: -41.5, y: -30}
+        - {x: -37.5, y: -44}
+        - {x: 24.5, y: -44}
+        - {x: 44.5, y: -5}
+        - {x: 44.5, y: 42}
+    - name: 36
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 352
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 57}
+        - {x: -49.5, y: -57}
+        - {x: 49.5, y: -57}
+        - {x: 49.5, y: 53}
+        - {x: 48.5, y: 57}
+    - name: 37
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 4
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 36}
+        - {x: -43.5, y: 1}
+        - {x: -43.5, y: -40}
+        - {x: 34.5, y: -40}
+        - {x: 42.5, y: -3}
+        - {x: 42.5, y: 36}
+    - name: 38
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 120
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 57}
+        - {x: -49.5, y: -2}
+        - {x: -37.5, y: -24}
+        - {x: -24.5, y: -22}
+        - {x: -14.5, y: -40}
+        - {x: -5.5, y: -43}
+        - {x: 34.5, y: -43}
+        - {x: 49.5, y: -37}
+        - {x: 49.5, y: 57}
+    - name: 39
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 236
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 51}
+        - {x: -45.5, y: -9}
+        - {x: 25.5, y: -51}
+        - {x: 45.5, y: -51}
+        - {x: 45.5, y: -5}
+        - {x: 43.5, y: 11}
+        - {x: 11.5, y: 37}
+        - {x: -21.5, y: 51}
+    - name: 4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 352
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 48}
+        - {x: -44.5, y: 5}
+        - {x: -45.5, y: -3}
+        - {x: -45.5, y: -42}
+        - {x: -41.5, y: -44}
+        - {x: -25.5, y: -44}
+        - {x: 45.5, y: 30}
+        - {x: 45.5, y: 45}
+        - {x: 37.5, y: 48}
+    - name: 40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 44}
+        - {x: -45.5, y: 9}
+        - {x: -45.5, y: -2}
+        - {x: -9.5, y: -43}
+        - {x: -4.5, y: -43}
+        - {x: -1.5, y: -42}
+        - {x: 44.5, y: -7}
+        - {x: 44.5, y: 4}
+        - {x: 13.5, y: 44}
+    - name: 41
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 120
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: 8}
+        - {x: -36.5, y: -13}
+        - {x: -10.5, y: -56}
+        - {x: 40.5, y: -56}
+        - {x: 40.5, y: 56}
+        - {x: -39.5, y: 56}
+        - {x: -43.5, y: 39}
+      - - {x: -37.5, y: 51}
+        - {x: -31.5, y: 51}
+        - {x: -21.5, y: 54}
+        - {x: -21.5, y: 57}
+        - {x: -37.5, y: 57}
+        - {x: -38.5, y: 53}
+    - name: 42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 236
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 53}
+        - {x: -45.5, y: -53}
+        - {x: -43.5, y: -54}
+        - {x: 36.5, y: -54}
+        - {x: 41.5, y: -36}
+        - {x: 41.5, y: 22}
+        - {x: 37.5, y: 53}
+    - name: 43
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 352
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 39}
+        - {x: -42.5, y: 32}
+        - {x: -44.5, y: 30}
+        - {x: -44.5, y: -34}
+        - {x: -41.5, y: -44}
+        - {x: 36.5, y: -44}
+        - {x: 46.5, y: -35}
+        - {x: 46.5, y: 39}
+    - name: 44
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 49}
+        - {x: -26.5, y: 49}
+        - {x: -40.5, y: 45}
+        - {x: -40.5, y: -13}
+        - {x: -33.5, y: -47}
+        - {x: 22.5, y: -47}
+        - {x: 39.5, y: -30}
+        - {x: 39.5, y: 29}
+        - {x: 36.5, y: 40}
+      - - {x: 42.5, y: 35}
+        - {x: 45.5, y: 36}
+        - {x: 45.5, y: 39}
+        - {x: 42.5, y: 40}
+        - {x: 40.5, y: 38}
+    - name: 45
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 120
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 21}
+        - {x: 8.5, y: 34}
+        - {x: 2.5, y: 45}
+        - {x: -11.5, y: 45}
+        - {x: -45.5, y: 22}
+        - {x: -45.5, y: -17}
+        - {x: -26.5, y: -45}
+        - {x: 11.5, y: -45}
+        - {x: 44.5, y: -6}
+        - {x: 44.5, y: 10}
+        - {x: 17.5, y: 22}
+    - name: 46
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 236
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 57}
+        - {x: -33.5, y: 42}
+        - {x: -40.5, y: 29}
+        - {x: -40.5, y: -20}
+        - {x: -28.5, y: -56}
+        - {x: 25.5, y: -56}
+        - {x: 45.5, y: -30}
+        - {x: 45.5, y: 38}
+        - {x: 19.5, y: 57}
+    - name: 5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 352
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 48}
+        - {x: -37.5, y: 45}
+        - {x: -46.5, y: 37}
+        - {x: -46.5, y: -7}
+        - {x: -1.5, y: -52}
+        - {x: 38.5, y: -52}
+        - {x: 44.5, y: -45}
+        - {x: 44.5, y: -20}
+        - {x: 6.5, y: 48}
+    - name: 6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 44}
+        - {x: -39.5, y: 15}
+        - {x: -45.5, y: -2}
+        - {x: -45.5, y: -34}
+        - {x: -41.5, y: -43}
+        - {x: 17.5, y: -43}
+        - {x: 44.5, y: -20}
+        - {x: 44.5, y: 43}
+        - {x: 43.5, y: 44}
+    - name: 7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 56}
+        - {x: -49.5, y: 55}
+        - {x: -49.5, y: 48}
+        - {x: -6.5, y: -36}
+        - {x: 16.5, y: -57}
+        - {x: 48.5, y: -57}
+        - {x: 48.5, y: -14}
+        - {x: -15.5, y: 56}
+    - name: 8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 236
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 25}
+        - {x: -39.5, y: 27}
+        - {x: -45.5, y: 19}
+        - {x: -45.5, y: -23}
+        - {x: -19.5, y: -45}
+        - {x: 22.5, y: -45}
+        - {x: 44.5, y: -33}
+        - {x: 44.5, y: 20}
+        - {x: 29.5, y: 44}
+        - {x: 0.5, y: 44}
+        - {x: -4.5, y: 37}
+    - name: 9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 352
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 46}
+        - {x: -34.5, y: 24}
+        - {x: -40.5, y: -9}
+        - {x: -40.5, y: -47}
+        - {x: -7.5, y: -47}
+        - {x: 39.5, y: -11}
+        - {x: 39.5, y: 39}
+        - {x: 27.5, y: 46}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
