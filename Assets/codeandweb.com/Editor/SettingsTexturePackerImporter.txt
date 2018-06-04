@@ -1,0 +1,33 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/01_WaterDistortion/WaterDistortion.tpsheet
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Resources/Textures/Treasures/Treasures_0.tpsheet
+- Assets/Textures/Background/Background_0.tpsheet
+- Assets/Textures/Background/Background_1.tpsheet
+- Assets/Textures/Background/Background_3.tpsheet
+- Assets/Textures/Background/Background_4.tpsheet
+- Assets/Textures/Book/Book.tpsheet
+- Assets/Textures/DigScreen/DigScreen_0.tpsheet
+textureFileNames:
+- Assets/01_WaterDistortion/WaterDistortion.png
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Resources/Textures/Treasures/Treasures_0.png
+- Assets/Textures/Background/Background_0.png
+- Assets/Textures/Background/Background_1.png
+- Assets/Textures/Background/Background_3.png
+- Assets/Textures/Background/Background_4.png
+- Assets/Textures/Book/Book.png
+- Assets/Textures/DigScreen/DigScreen_0.png
+normalmapFileNames:
+- 
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

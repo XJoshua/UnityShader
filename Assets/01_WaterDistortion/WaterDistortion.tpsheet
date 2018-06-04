@@ -1,0 +1,12 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: WaterDistortion.png (2248 x 1284)
+# $TexturePacker:SmartUpdate:61cb5ce58943c7d358697ceb53e5cc97:424e45fd1ee842bd5d6adf4953b60510:43d46b435902fe67a93a04e78ecf4086$
+#
+
+coral-457251_1280;2;2;960;1280;0.5;0.5
+earth-1617121_1280;964;322;1280;960;0.5;0.5
